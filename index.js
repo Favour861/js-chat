@@ -5,13 +5,13 @@ var count = 0;
 // Conditional operators (>, <, >=, <=, ==, ===, !=)
 // Logical operators (&&, ||)
 
-var name = "";
+// var name = "";
 
-if(name == true){
-    alert("YEAH!")
-}else{
-    alert("NAY!")
-}
+// if(name == true){
+//     alert("YEAH!")
+// }else{
+//     alert("NAY!")
+// }
 
 //SWITCH
 //TENARY OPERATOR
